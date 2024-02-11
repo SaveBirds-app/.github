@@ -1,4 +1,4 @@
-## Welcome to the <span style="color: red;">SaveBirds.app</span> GitHub Organization! 👋 
+## Welcome to the [SaveBirds.app](https://savebirds.app/) GitHub Organization! 👋 
 
 
 <!--
