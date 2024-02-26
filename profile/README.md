@@ -1,5 +1,26 @@
 ## Welcome to the [![SaveBirds](https://img.shields.io/badge/-SaveBirds.app-c11111?style=flat&link=https://savebirds.app/)](https://savebirds.app/) GitHub Organization! 👋 
 
+### How to Obtain a Pre-generated Atlas?     
+
+If you want to obtain a pre-generated atlas follow this instruction [A Tutorial to Atlas Visualization](https://github.com/SaveBirds-app/.github/blob/main/Tutorial__Atlas_Visualization.pdf).
+
+### Atlas Visualization:
+If you want to visualize your atlas refer to [A Tutorial to Atlas Visualization](https://github.com/SaveBirds-app/.github/blob/main/Tutorial__Atlas_Visualization.pdf) for a comprehensive guide on effectively visualizing your data.
+
+### How to Generate an Atlas?    
+If you are a SaveBirds user, or are thinking about becoming one, refer to [A Tutorial to The Bird Atlas Generator
+Introduced By SaveBirds.app](https://github.com/SaveBirds-app/.github/blob/main/Tutorial___Bird%20Atlas%20Generator___SaveBirds.pdf) for details on how to generate your desired atlases using savebirds.app. 
+
+### Easily Contribute and Get Recognition     
+If you are enthusiastic about contributing in SaveBirds organization or seeking recognition and citations for your research, refer to [A Tutorial to The Bird Atlas Generator
+Introduced By SaveBirds.app](https://github.com/SaveBirds-app/.github/blob/main/Tutorial___Bird%20Atlas%20Generator___SaveBirds.pdf), and send it to our organization manager, [Mostafa M. Rezaee](https://www.linkedin.com/in/mostafa-m-rezaee/) for details on how to generate your desired atlases using savebirds.app. Also If you're interested in joining the SaveBirds contributors group, simply create a GitHub account too. 
+
+### For Additional Questions:    
+If you have questions that are not covered in the resources above, the best way to reaching out the organization manager. This organization is primarily managed by the [Mostafa M. Rezaee](https://www.linkedin.com/in/mostafa-m-rezaee/), but everybody is welcome to contribute.   
+Gmail: mostafa.mohammadrezaee@gmail.com   
+[Linkedin](https://www.linkedin.com/in/mostafa-m-rezaee/)   
+[Personal Website](www.mostafa-mr.com)
+
 
 <!--
 
